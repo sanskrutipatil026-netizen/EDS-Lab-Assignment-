@@ -3,7 +3,7 @@ EDS Lab Assignment
 Student Details
 
 - Name: Sanskruti Patil
-- Subject: Essential Of Data Science (EDS)
+- Subject: Essentials Of Data Science (EDS)
 
 Contents
 
