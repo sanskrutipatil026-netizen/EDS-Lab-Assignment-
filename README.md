@@ -7,7 +7,7 @@ Student Details
 
 Contents
 
-- EDS Assignments
+- EDS Assignments and Video
 - Python Essentials Certificates
 
 Description
